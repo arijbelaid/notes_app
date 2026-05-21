@@ -1,6 +1,6 @@
 # Notes App — React Native + Flutter
 
-Application de prise de notes complète développée en parallèle dans les deux frameworks, basé sur le tutoriel de Wahid Hamdi.
+Application de prise de notes complète développée en parallèle dans les deux frameworks
 
 ## Structure du projet
 
